@@ -10,7 +10,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/Program Files (x86)/RuneMate/RuneMate.jar!/" />
+          <root url="jar://C:/start/RuneMate.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
