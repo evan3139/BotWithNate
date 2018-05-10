@@ -40,25 +40,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="InititialBot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InititialBot" type="462c0819:PsiDirectoryNode" />
+              <item name="BotWithNate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BotWithNate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BotWithNate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BotWithNate" type="462c0819:PsiDirectoryNode" />
+              <item name="Initial-Runescape-Bot-with-Nate" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="C:/Program Files (x86)/RuneMate/RuneMate.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -281,6 +286,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
