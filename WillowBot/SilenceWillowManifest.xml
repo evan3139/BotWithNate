@@ -1,0 +1,24 @@
+<manifest>
+    <main-class>com.SilenceP44.bots.WillowBot.SilenceWillow</main-class>
+    <name>Silence's Willow Bot</name>
+    <tag-line>Chops your wood!</tag-line><!--Max of 50 chars-->
+    <description>Chops willows near Draynor.</description><!--Max of 110 chars-->
+    <version>1.0.5</version>
+    <compatibility>
+        <game>OSRS</game>
+        <!--Can be used if you absolutely need to disable DarkScape (highly discouraged)-->
+        <!--<disable-game>DARK</disable-game>-->
+    </compatibility>
+    <categories>
+        <category>WOODCUTTING</category>
+    </categories>
+    <!--Required to publish on the bot store-->
+    <internal-id>SilenceWillow</internal-id>
+    <!--The rest are optional-->
+    <open-source>true</open-source>
+    <hidden>false</hidden> <!--If you need to hide it from the bot store for maintenance-->
+    <access>public</access>
+    <tags>
+        <tag>Tree</tag>
+    </tags>
+</manifest>
