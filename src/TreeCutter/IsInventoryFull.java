@@ -1,35 +1,32 @@
-package com.SilenceP44.bots.WillowBot.Branches;
+package please.add.your.pkg;
 
-import com.SilenceP44.bots.WillowBot.SilenceWillow;
-import com.runemate.game.api.hybrid.local.hud.interfaces.Inventory;
 import com.runemate.game.api.script.framework.tree.BranchTask;
 import com.runemate.game.api.script.framework.tree.TreeTask;
+
+import path.to.your.WalkToVarrockBank
+import path.to.your.InOakArea
 
 /**
  * NOTES:
  * Check if inventory is full
  */
-
 public class IsInventoryFull extends BranchTask {
 
-    private SilenceWillow bot;
-    public IsInventoryFull(SilenceWillow bot) {
-        this.bot = bot;
-    }
-
+    private WalkToVarrockBank walktovarrockbank = new WalkToVarrockBank();
+    private InOakArea inoakarea = new InOakArea();
 
     @Override
     public boolean validate() {
-        return Inventory.getEmptySlots() == 0;
+        return false;
     }
 
     @Override
     public TreeTask failureTask() {
-        return bot.cutwillow;
+        return inoakarea;
     }
 
     @Override
     public TreeTask successTask() {
-        return bot.isbankopen;
+        return walktovarrockbank;
     }
 }
