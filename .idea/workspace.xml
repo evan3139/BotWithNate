@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/BraveThieving.manifest.xml" line="1" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="88a45e10-e72c-4619-b1ed-6025f1c62577" name="Default" comment="" />
+    <list default="true" id="88a45e10-e72c-4619-b1ed-6025f1c62577" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/EwildCut.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/BraveThieving.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/TreeCutter/AreweInVarrockBank.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/TreeCutter/ChopTree.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/TreeCutter/CloseBank.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/TreeCutter/DepositUnwanted.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/TreeCutter/EquipAxe.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/TreeCutter/HaveAxe.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/TreeCutter/HaveAxeInInventory.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/TreeCutter/HaveequippedAxe.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/TreeCutter/Havenearlemptyinv.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/TreeCutter/InBankArea.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/TreeCutter/InOakArea.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/TreeCutter/InTreeArea.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/TreeCutter/IsBankOpen.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/TreeCutter/IsInventoryFull.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/TreeCutter/NearlyEmptyInventory.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/TreeCutter/OPENBANK.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/TreeCutter/StopBot.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/TreeCutter/WalkToVarrockBank.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/TreeCutter/WalktoTreeArea.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/TreeCutter/WalktoTrees.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/TreeCutter/failsafehaveaxeequipped.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/TreeCutter/makemestop.java" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,31 +41,75 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HaveAxeInInventory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TreeCutter/HaveAxeInInventory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DepositUnwanted.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TreeCutter/DepositUnwanted.java">
+      <file leaf-file-name="BraveThieving.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/BraveThieving.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
+              <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#310#311#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AreweInVarrockBank.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TreeCutter/AreweInVarrockBank.java">
+      <file leaf-file-name="Steal.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/Steal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="41" />
+            <state relative-caret-position="476">
+              <caret line="57" column="111" lean-forward="false" selection-start-line="57" selection-start-column="111" selection-end-line="57" selection-end-column="111" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WalkToLumbridge.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/WalkToLumbridge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="17" column="96" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="96" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InLumbridge.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/InLumbridge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="17" column="3" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#875#876#0" expanded="true" />
+                <element signature="e#976#977#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WalkToTreeArea.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/WalkToTreeArea.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BraveThieving.manifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/BraveThieving.manifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -47,44 +120,124 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>package please.add.your.pkg;</find>
+      <find>pleas</find>
+      <find>please.add.your.pkg;</find>
+      <find>import path.</find>
+      <find>****</find>
+      <find>import path</find>
+      <find>please.add.your.pkg</find>
+      <find>com.bravebots.bravethieving.lumbrigde_man</find>
+    </findStrings>
     <replaceStrings>
       <replace />
+      <replace>package com.bravebots.TreeCutter;</replace>
+      <replace>//</replace>
+      <replace>com.bravebots.bravethieving.lumbridge_man;</replace>
+      <replace>com.bravebots.Bravecutting.VarrockTree;</replace>
+      <replace>//import path.</replace>
+      <replace>private EwildCut bot;</replace>
+      <replace>com.bravebots.Bravecutting.VarrockTree</replace>
+      <replace>//import path</replace>
+      <replace>com.bravebots.bravethieving.lumbrigde_man</replace>
+      <replace>//com.bravebots.bravethieving.lumbrigde_man</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\ewild\IdeaProjects\BotWithNate\src\TreeCutter</dir>
+      <dir>C:\Users\ewild\IdeaProjects\BotWithNate\src\com\bravebots\TreeCutter</dir>
+      <dir>C:\Users\ewild\IdeaProjects\BotWithNate\src\com\bravebots\Bravecutting\VarrockTree\branches</dir>
+      <dir>C:\Users\ewild\IdeaProjects\BotWithNate\src\com\bravebots\Bravecutting\VarrockTree</dir>
+      <dir>C:\Users\ewild\IdeaProjects\BotWithNate\src\com\bravebots\bravethieving\lumbridge_man</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Initial-Runescape-Bot-with-Nate" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/WillowBot/SilenceWillow.java" />
         <option value="$PROJECT_DIR$/src/TreeCutter/AreweInVarrockBank.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/TreeCutter/AreweInVarrockBank.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/TreeCutter/BraveTree.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/Root.java" />
+        <option value="$PROJECT_DIR$/src/willow/WillowBot/SilenceWillow.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/EwildWalk.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/WalkingDistance.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/bravethieving/testbot/testbot.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/bravethieving/testbot/testbot.manifest.xml" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/EwildWalk.manifest.xml" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/ChopTree.java" />
+        <option value="$PROJECT_DIR$/src/com/v3/base/SudoBot.java" />
+        <option value="$PROJECT_DIR$/v3/spectre/common/leafs/LiteVersionExpireLeaf.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/walkToArea.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/branches/IsAxeInInventory.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/bravethieving/EwildCut.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/CloseBank.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/branches/IsInventoryNearlyEmpty.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/branches/HasAxe.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/branches/ChopTree.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/branches/IsAxeEquipped.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/branches/IsBankOpen.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/branches/IsBankOpen2.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/leafs/WalkToBank.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/leafs/WalkToTreeArea.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/leafs/DepositUnwanted.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/leafs/OpenBank.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/branches/InBankArea.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/branches/InTreeArea.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/leafs/WithdrawAxe.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/leafs/ChopTree.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/branches/IsInventoryFilled.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/branches/IsInventoryFull.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/InTreeArea.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/IsBankOpen.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/IsInventoryFull.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/DepositUnwanted.java" />
+        <option value="$PROJECT_DIR$/WillowBot/Leafs/OpenBank.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/WalkToTreeArea.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/EwildCut.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/IsAxeEquipped.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/StopBot.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/EwildCut.manifest.xml" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/CutTree.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/OpenBank.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/BraveThieving.manifest.xml" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/BraveThieving.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/InLumbridge.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/WalkToLumbridge.java" />
+        <option value="$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/Steal.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="461" />
-    <option name="y" value="242" />
+    <option name="x" value="221" />
+    <option name="y" value="19" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages ProjectPane="true" />
+      <flattenPackages ProjectPane="false" />
       <showMembers />
       <showModules />
       <showLibraryContents />
-      <hideEmptyPackages />
+      <hideEmptyPackages ProjectPane="false" />
       <abbreviatePackageNames />
       <autoscrollToSource />
       <autoscrollFromSource />
@@ -93,10 +246,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,19 +258,118 @@
             <path>
               <item name="BotWithNate" type="b2602c69:ProjectViewProjectNode" />
               <item name="BotWithNate" type="462c0819:PsiDirectoryNode" />
+              <item name="HosidiusThieving" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BotWithNate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BotWithNate" type="462c0819:PsiDirectoryNode" />
+              <item name="HosidiusThieving" type="462c0819:PsiDirectoryNode" />
+              <item name="tasks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BotWithNate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BotWithNate" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BotWithNate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BotWithNate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BotWithNate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BotWithNate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bravebots" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BotWithNate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BotWithNate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bravebots" type="462c0819:PsiDirectoryNode" />
+              <item name="Bravecutting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BotWithNate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BotWithNate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bravebots" type="462c0819:PsiDirectoryNode" />
+              <item name="Bravecutting" type="462c0819:PsiDirectoryNode" />
+              <item name="VarrockTree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BotWithNate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BotWithNate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bravebots" type="462c0819:PsiDirectoryNode" />
+              <item name="bravethieving" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BotWithNate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BotWithNate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bravebots" type="462c0819:PsiDirectoryNode" />
+              <item name="bravethieving" type="462c0819:PsiDirectoryNode" />
+              <item name="lumbridge_man" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BotWithNate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BotWithNate" type="462c0819:PsiDirectoryNode" />
+              <item name="v3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BotWithNate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BotWithNate" type="462c0819:PsiDirectoryNode" />
+              <item name="v3" type="462c0819:PsiDirectoryNode" />
+              <item name="spectre" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BotWithNate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BotWithNate" type="462c0819:PsiDirectoryNode" />
+              <item name="v3" type="462c0819:PsiDirectoryNode" />
+              <item name="spectre" type="462c0819:PsiDirectoryNode" />
+              <item name="bots" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BotWithNate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BotWithNate" type="462c0819:PsiDirectoryNode" />
+              <item name="v3" type="462c0819:PsiDirectoryNode" />
+              <item name="spectre" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="C:/Program Files (x86)/RuneMate/RuneMate.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.bravebots.bravethieving.lumbridge_man" />
+      <recent name="com.bravebots.Bravecutting.VarrockTree.branches" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ewild\IdeaProjects\BotWithNate\src\com\bravebots\Bravecutting\VarrockTree" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ewild\IdeaProjects\BotWithNate\src\com\bravebots\Bravecutting\VarrockTree" />
+      <recent name="C:\Users\ewild\IdeaProjects\BotWithNate\src\com\bravebots\bravethieving" />
+      <recent name="C:\Users\ewild\IdeaProjects\BotWithNate\src\com" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -247,23 +497,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="461" y="242" width="1400" height="1000" extended-state="0" />
+    <frame x="221" y="19" width="1400" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26492536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -274,150 +523,336 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/willow/WillowBot/SilenceWillow.java</url>
+          <line>156</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/WillowBot/SilenceWillow.java</url>
+          <line>167</line>
+          <properties class="com.SilenceP44.bots.WillowBot.SilenceWillow" method="getTreeName">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/branches/ChopTree.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/branches/IsAxeEquipped.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/branches/HasAxe.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/walkToArea.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/leafs/DepositUnwanted.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/leafs/WalkToTreeArea.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/leafs/WalkToBank.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/leafs/OpenBank.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/branches/IsBankOpen2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/branches/IsBankOpen.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/branches/InTreeArea.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/branches/InBankArea.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/leafs/WithdrawAxe.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/leafs/ChopTree.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/branches/IsInventoryFilled.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/branches/IsInventoryFull.java" />
+    <entry file="file://$PROJECT_DIR$/WillowBot/Branches/IsBankOpen.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WillowBot/.idea/WillowBot.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WillowBot/SilenceWillowManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WillowBot/InWillowArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WillowBot/Branches/IsAxeEquipped.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="0" column="47" lean-forward="true" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WillowBot/Branches/IsBankOpen.java">
+    <entry file="file://$PROJECT_DIR$/WillowBot/InWillowArea.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WillowBot/Branches/IsInventoryFull.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/EwildWalk.java" />
+    <entry file="file://$PROJECT_DIR$/WillowBot/Leafs/CutWillow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="710">
+          <caret line="76" column="1" lean-forward="true" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WillowBot/Leafs/StopBot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="255">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WillowBot/Leafs/OpenBank.java">
+    <entry file="file://$PROJECT_DIR$/WillowBot/SilenceWillow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="30" column="53" lean-forward="false" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
+        <state relative-caret-position="1292">
+          <caret line="117" column="13" lean-forward="true" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files (x86)/RuneMate/RuneMate.jar!/nul/IiiiiIiiIIiii.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/ChopTree.java" />
     <entry file="file://$PROJECT_DIR$/WillowBot/Leafs/GotoWillowArea.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/IsAxeEquipped.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+          <folding>
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/InTreeArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/IsInventoryFull.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="46" lean-forward="false" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/StopBot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/IsBankOpen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/DepositUnwanted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="17" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WillowBot/Leafs/DepositWillowLogs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="299">
+          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WillowBot/Leafs/CutWillow.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/CutTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221">
-          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-          <folding />
+        <state relative-caret-position="608">
+          <caret line="56" column="17" lean-forward="true" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa10848.48020/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/OpenBank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="350">
+          <caret line="39" column="135" lean-forward="false" selection-start-line="39" selection-start-column="135" selection-end-line="39" selection-end-column="135" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WillowBot/SilenceWillow.java">
+    <entry file="file://$PROJECT_DIR$/WillowBot/Leafs/OpenBank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1564">
-          <caret line="115" column="5" lean-forward="true" selection-start-line="115" selection-start-column="5" selection-end-line="115" selection-end-column="5" />
+        <state relative-caret-position="418">
+          <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/EwildCut.manifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreeCutter/HaveAxeInInventory.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/EwildCut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/BraveThieving.manifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreeCutter/DepositUnwanted.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/BraveThieving.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/Bravecutting/VarrockTree/WalkToTreeArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HosidiusThieving/tasks/Dropfruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/InLumbridge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="3" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+            <element signature="e#976#977#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HosidiusThieving/Thieving.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HosidiusThieving/tasks/Eatfruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HosidiusThieving/tasks/WalkToStalls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreeCutter/AreweInVarrockBank.java">
+    <entry file="file://$PROJECT_DIR$/v3/spectre/bots/apexcrabber/threads/TrialWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v3/spectre/common/SudoCamera.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="41" />
-          <folding />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/WalkToLumbridge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" column="96" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="96" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bravebots/bravethieving/lumbridge_man/Steal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="57" column="111" lean-forward="false" selection-start-line="57" selection-start-column="111" selection-end-line="57" selection-end-column="111" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
